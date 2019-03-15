@@ -1,6 +1,6 @@
 {
-  "posts": [
-    { "email": "test@gmail.com","password": "123456789", "role": "admin" },
-    { "email": "test@gmail.com","password": "123456789", "role": "admin" }
+  "data": [
+    { "email": "admin@gmail.com","password": "123456789", "role": "admin" },
+    { "email": "user@gmail.com","password": "123456789", "role": "user" }
   ]  
 }
